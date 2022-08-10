@@ -2,9 +2,7 @@ name: cargo-audit
 
 on:
   push:
-    branches: [main]
   pull_request:
-    branches: [main]
 
 jobs:
   cargo-audit:
