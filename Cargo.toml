@@ -8,3 +8,4 @@ license = "MIT"
 
 [dependencies]
 chrono="0.4.19"
+time="0.1.44"
